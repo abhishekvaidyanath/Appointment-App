@@ -1,6 +1,6 @@
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="Appointment App" id="Appointment App" version="1.0">
   <name>ITCS Appointment App</name>
-  <description>Bharat Builders</description>
+  <description>ITCS Appointment App</description>
   <author href="http://www.itcoordinates.com" email="info@itcoordinates.com">ITCS Appointment App</author>
   <content src="index.html"/>
   <preference name="DisallowOverscroll" value="true"/>
